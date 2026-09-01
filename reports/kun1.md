@@ -18,5 +18,3 @@ $narx = 15.5;
 status = true;
 
 echo "Mening ismim: $ism, yoshim $yosh da"
-
-?>
